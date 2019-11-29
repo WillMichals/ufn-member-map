@@ -1,0 +1,12 @@
+UFN Member Map
+UFN-Member-Map.cfg
+caelum
+0.93, 0.86, 0.76
+2440.0, 0.30000000149, 1054.5, 2420.5, 0.30000000149, 1014.0, 2420.5, 0.30000000149, 1011.27526855
+2510.782227,     3.554752,  1075.565186,     0.000000,    -0.000000,     0.500000, truck wrecker.truck
+
+sandstormcubemap Sky/ClubTropicana
+
+collision-tris 760000
+
+end
